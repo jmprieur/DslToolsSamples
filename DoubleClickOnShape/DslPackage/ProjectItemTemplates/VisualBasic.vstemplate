@@ -1,0 +1,17 @@
+﻿<!--DSL Tools Language Template-->
+<VSTemplate Version="3.0.0" Type="Item" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TemplateData>
+		<TemplateID>{a03bd0f9-4952-486f-8b48-72b7060ca881}</TemplateID>
+		<Name Package="{a246c725-63a5-4e66-b81b-a0c6ce0cecab}" ID="103"/>
+		<Description Package="{a246c725-63a5-4e66-b81b-a0c6ce0cecab}" ID="102"/>
+		<Icon Package="{a246c725-63a5-4e66-b81b-a0c6ce0cecab}" ID="201" />
+		<ProjectType>VisualBasic</ProjectType>
+		<SortOrder>360</SortOrder>
+		<DefaultName>DoubleClickOnShape.DoubleClickOnShape</DefaultName>
+	</TemplateData>
+	<TemplateContent>
+		<ProjectItem TargetFileName="$fileinputname$.DoubleClickOnShape">DoubleClickOnShape.DoubleClickOnShape</ProjectItem>
+		<ProjectItem TargetFileName="$fileinputname$.DoubleClickOnShape.diagram">DoubleClickOnShape.diagram</ProjectItem>
+	</TemplateContent>
+</VSTemplate>
+
