@@ -1,5 +1,5 @@
 ## Goal
-This DSL Tools sample shows how to let the end user double-click on a text decorator in a shape and trigger an editor of the developer's choice to editor this textual value
+This DSL Tools sample shows how to let the end user double-click on a text decorator in a shape and trigger an editor of the developer's choice to edit this textual value
 
 ## How to proceed
 starting from the default DSL, which create an **ExampleElement** represented by an **ExampleShape**, you will need to:
